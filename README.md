@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Aditya</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityachoudhury29" alt="adityachoudhury29" /></a> </p>
-
 - 🔭 I’m currently contributing to **GPT-3.5-on-steroids**
 
 - 🌱 I’m currently learning **Rust**
