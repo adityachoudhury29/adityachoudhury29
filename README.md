@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Aditya</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently contributing to **GPT-3.5-on-steroids**
-
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
