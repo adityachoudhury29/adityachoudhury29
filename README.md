@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
