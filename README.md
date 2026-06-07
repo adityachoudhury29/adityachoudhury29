@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/adityachoudhury29](www.github.com/adityachoudhury29)
 
-- 📫 How to reach me **achoudhury2004@gmail.com**
+- 📫 How to reach me **adityahacksemall@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
